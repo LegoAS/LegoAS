@@ -1,6 +1,12 @@
 # LegoLAS - Lego Automatisch Sortieren
 In diesem Repo sammeln wir nach und nach alle relevanten Informationen zum Bau der Legosortiermaschine.
 
+<img src="img/IMG-20210813-WA0006.jpg?raw=true" width="34%" alt="Legolas 2.0 auf der Landesgartenschau"></img>
+
+_LegoLAS 2.0 auf der Landesgartenschau 2021_
+
+[Bilder](/img)
+
 [![LegoLAS auf YouTube](http://img.youtube.com/vi/dJLl3fBxQ1Q/0.jpg)](http://www.youtube.com/watch?v=dJLl3fBxQ1Q "Lego Automatisch Sortieren (LegoLAS) - Mechatronische Legosortiermaschine")
 
 Unter [Discussion](https://github.com/LegoAS/LegoAS/discussions) haben wir schon Kategorien eingerichtet.
