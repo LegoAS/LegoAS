@@ -9,7 +9,7 @@ Das [Wiki](https://github.com/LegoAS/LegoAS/wiki) wird jetzt nach und nach gefü
 
 Die CAD-Modelle zur Mechanik findet man auf [OnShape](https://cad.onshape.com/documents/987d7bcb5ba09db685ee5959/w/9b6ee89cc72c5f3be05c2815/e/2b4e90a536956ffc8c740721).
 
-# Die Geschichte des LegoLAS oder warum man als Maschinenbauer/-in etwas von Maschienllem Lernen verstehen sollte:
+# Die Geschichte des LegoLAS oder warum man als Maschinenbauer/-in etwas von Maschinellem Lernen verstehen sollte:
 
 Im Rahmen einer Projektarbeit haben 10 Studierende im Sommersemester 2011 die erste LEGO-Sortiermaschine im Labor für Ingenieurinformatik und computergestützte Mathematik entwickelt und gebaut. Die große Herausforderung war zunächst die Mechanik, insbesondere das Vereinzeln der sehr verschiedenen Lego-Steine. Die Erkennung erfolgte in der ersten Maschine teilweise mechanisch und teilweise über die Bilderkennung von National Instruments (LabView).
 
