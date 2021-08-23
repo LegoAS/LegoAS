@@ -7,6 +7,8 @@ _LegoLAS 2.0 auf der Landesgartenschau 2021_
 
 [Bilder](/img)
 
+[![LegoLAS 2.0 auf YouTube](http://img.youtube.com/vi/nvlKVkN6aeg/0.jpg)](http://www.youtube.com/watch?v=nvlKVkN6aeg "Lego Automatisch Sortieren (LegoLAS 2.0) - Weiterentwicklung der Mechatronischen Legosortiermaschine")
+
 [![LegoLAS auf YouTube](http://img.youtube.com/vi/dJLl3fBxQ1Q/0.jpg)](http://www.youtube.com/watch?v=dJLl3fBxQ1Q "Lego Automatisch Sortieren (LegoLAS) - Mechatronische Legosortiermaschine")
 
 Unter [Discussion](https://github.com/LegoAS/LegoAS/discussions) haben wir schon Kategorien eingerichtet.
